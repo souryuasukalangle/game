@@ -1,7 +1,5 @@
 游戏网站
 
-1377x：https://www.1377x.to/	
-
 3DM游戏网：https://www.3dmgame.com/	
 
 50TB游戏合集：https://docs.qq.com/document/DT2xBeVJvaHNQUHht	
