@@ -1,57 +1,87 @@
-游戏网站
+游戏网站（要是存在付费，就看个人要不要花钱，我只负责收集，粗略看一下而已）
 
-3DM游戏网：https://www.3dmgame.com/	
+3dm：https://www.3dmgame.com/	
 
-5217下载站：https://www.xxx5217.com/	
+4399：https://www.4399.com/
+
+5play：https://5play.org/
+
+7k7k：https://www.7k7k.com/
+
+9633安卓网：http://www.9663.com/
 
 byru：https://thebyrut.org/	
 
 cpygames：https://cpygames.com/	
 
-croTorrents：https://crotorrents.com/	
+crazy：https://www.crazygames.com/
 
-curseForge：https://www.curseforge.com/
+crotorrents：https://crotorrents.com/	
 
-fitGirl：https://fitgirl-repacks.site/	
+curseforge：https://www.curseforge.com/
 
-flysheep避难所：https://www.flysheep6.com/
+dmm：https://games.dmm.com/
 
-gameStarfield：https://gamestarfield.com/
+emu666：https://www.emu666.com/
 
-gamesTorrents：https://www.gamestorrents.fm/home/
+fitgirl：https://fitgirl-repacks.site/	
+
+flysheep：https://www.flysheep6.com/
+
+gbt：https://www.gbtgames.com/
 
 igg：https://igg-games.com/
 
-pcTorrent：https://pcgamestorrents.com/	
+pctorrent：https://pcgamestorrents.com/	
 
-repackGames：https://repack-games.com/	
+poki：https://poki.com/zh
 
-ruTracker：https://rutracker.org/forum/index.php
+qoo：https://www.qoo-app.com/en
+
+repack：https://repack-games.com/
+
+rutracker：https://rutracker.org/forum/index.php
 
 sgames：https://www.ssgames.studio/
 
 steam：https://store.steampowered.com/	
-
-steamUnlocked：https://steamunlocked.net/
 
 swich520：https://sway.cloud.microsoft/1ESaLEE3x47BTgZC
 
 switch618：https://www.switch618.com/	
 
 taptap：https://www.taptap.cn	
-	
-开源游戏合集：https://github.com/michelpereira/awesome-open-source-games
+
+tarfield：https://gamestarfield.com/
+
+torrents：https://www.gamestorrents.fm/home/
+
+unlocked：https://steamunlocked.net/
+
+wgame：https://wgame80.com/
+
+xxx5217：https://www.xxx5217.com/	
+
+yikm：https://www.yikm.net/
+
+yxik：http://www.yxik.com/
+
+街机游戏盒：https://arcade.heheda.top/
+
+开源游戏：https://github.com/michelpereira/awesome-open-source-games
+
+老游戏：https://zaixianwan.app/
 
 灵动游戏：https://www.mhhf.com/	
 
-萌新单机之家：http://821730880.ysepan.com/	
+萌新单机：http://821730880.ysepan.com/	
 
-上游世界：https://www.vgter.com/	
+皮皮游戏库：https://ppgames.top/
 
-小妖怪分享：https://www.xyg688.com/
+蜻蜓游戏：https://33tool.com/games/
 
-游民星空：https://www.gamersky.com/	
+上游世界：https://www.vgter.com/
 
-游戏天堂：https://www.zzzzz688.com/	
+吾爱单机：https://www.52djyx.com/
 
-游侠网：https://down.ali213.net	
+咸鱼单机：https://www.xianyudanji.ai/
