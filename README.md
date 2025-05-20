@@ -28,9 +28,7 @@ repackGames：https://repack-games.com/
 
 ruTracker：https://rutracker.org/forum/index.php
 
-ruTracker.org：https://rutracker.org/forum/index.php	
-
-sgames：https://www.s-sgames.com/
+sgames：https://www.ssgames.studio/
 
 steam：https://store.steampowered.com/	
 
@@ -41,8 +39,6 @@ swich520：https://sway.cloud.microsoft/1ESaLEE3x47BTgZC
 switch618：https://www.switch618.com/	
 
 taptap：https://www.taptap.cn	
-
-torrentGalaxy：https://torrentgalaxy.to/	
 
 叽哩叽哩游戏：https://www.jiligamefun.com/	
 
