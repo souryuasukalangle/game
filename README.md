@@ -22,31 +22,27 @@ gamesTorrents：https://www.gamestorrents.fm/home/
 
 igg：https://igg-games.com/
 
-kims资源站：https://kims3.xyz/
+pcTorrent：https://pcgamestorrents.com/	
 
-LimeTorrents：https://www.limetorrents.lol/	
+repackGames：https://repack-games.com/	
 
-PCGamesTorrent：https://pcgamestorrents.com/	
+ruTracker：https://rutracker.org/forum/index.php
 
-Repack-Games：https://repack-games.com/	
+ruTracker.org：https://rutracker.org/forum/index.php	
 
-RuTracker：https://rutracker.org/forum/index.php
+sgames：https://www.s-sgames.com/
 
-RuTracker.org：https://rutracker.org/forum/index.php	
+steam：https://store.steampowered.com/	
 
-SGAMES：https://www.s-sgames.com/
+steamUnlocked：https://steamunlocked.net/
 
-Steam：https://store.steampowered.com/	
+swich520：https://sway.cloud.microsoft/1ESaLEE3x47BTgZC
 
-SteamUnlocked：https://steamunlocked.net/
+switch618：https://www.switch618.com/	
 
-swich520下载站：https://sway.cloud.microsoft/1ESaLEE3x47BTgZC
+taptap：https://www.taptap.cn	
 
-Switch618：https://www.switch618.com/	
-
-TapTap：https://www.taptap.cn	
-
-TorrentGalaxy：https://torrentgalaxy.to/	
+torrentGalaxy：https://torrentgalaxy.to/	
 
 叽哩叽哩游戏：https://www.jiligamefun.com/	
 
