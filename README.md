@@ -39,9 +39,7 @@ swich520：https://sway.cloud.microsoft/1ESaLEE3x47BTgZC
 switch618：https://www.switch618.com/	
 
 taptap：https://www.taptap.cn	
-
-叽哩叽哩游戏：https://www.jiligamefun.com/	
-
+	
 开源游戏合集：https://github.com/michelpereira/awesome-open-source-games
 
 灵动游戏：https://www.mhhf.com/	
@@ -49,8 +47,6 @@ taptap：https://www.taptap.cn
 萌新单机之家：http://821730880.ysepan.com/	
 
 上游世界：https://www.vgter.com/	
-
-小叽资源：https://steamzg.com/
 
 小妖怪分享：https://www.xyg688.com/
 
