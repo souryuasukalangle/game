@@ -2,31 +2,25 @@
 
 3DM游戏网：https://www.3dmgame.com/	
 
-50TB游戏合集：https://docs.qq.com/document/DT2xBeVJvaHNQUHht	
-
 5217下载站：https://www.xxx5217.com/	
 
-BT4G：https://bt4gprx.com/	
+byru：https://thebyrut.org/	
 
-Byru：https://thebyrut.org/	
+cpygames：https://cpygames.com/	
 
-CPYGAMES：https://cpygames.com/	
+croTorrents：https://crotorrents.com/	
 
-CroTorrents：https://crotorrents.com/	
+curseForge：https://www.curseforge.com/
 
-CurseForge：https://www.curseforge.com/
+fitGirl：https://fitgirl-repacks.site/	
 
-FitGirlRepacks：https://fitgirl-repacks.site/	
+flysheep避难所：https://www.flysheep6.com/
 
-flysheep避难所：http://flysheep.ysepan.com/	
+gameStarfield：https://gamestarfield.com/
 
-GameStarfield：https://gamestarfield.com/
+gamesTorrents：https://www.gamestorrents.fm/home/
 
-GamesTorrents：https://www.gamestorrents.fm/home/
-
-GBT乐赏游戏空间：http://gbtgame.ysepan.com/
-
-IGGGAMES：https://igg-games.com/
+igg：https://igg-games.com/
 
 kims资源站：https://kims3.xyz/
 
