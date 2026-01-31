@@ -114,8 +114,6 @@ ziperto：https://www.ziperto.com/
 
 萌新单机：http://821730880.ysepan.com/	
 
-皮皮游戏库：https://ppgames.top/
-
 上游世界：https://www.vgter.com/
 
 吾爱单机：https://www.52djyx.com/
