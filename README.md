@@ -4,11 +4,17 @@
 
 4399：https://www.4399.com/
 
+5217社区：https://www.xxx5217.com/	
+
 5play：https://5play.org/
 
 7k7k：https://www.7k7k.com/
 
 9633安卓网：http://www.9663.com/
+
+aimhaven：https://www.aimhaven.com/
+
+apunka：https://www.apunkagames.com/
 
 byru：https://byrutgame.org/
 
@@ -18,17 +24,39 @@ crotorrents：https://crotorrents.com/
 
 curseforge：https://www.curseforge.com/
 
+dlps：https://dlpsgame.com/
+
 dmm：https://games.dmm.com/
+
+dtbps3：https://www.dtbps3games.com/
 
 emu666：https://www.emu666.com/
 
 fitgirl：https://fitgirl-repacks.site/	
 
-flysheep：https://www.flysheep6.com/
+flysheep避难所：https://www.flysheep6.com/
+
+fm种子：https://www.gamestorrents.fm/home/
 
 gbt：https://www.gbtgames.com/
 
+hisgames：https://hisgames.org/
+
+hitovik：https://hitovik.com/
+
+idamaos：https://www.idamaos.com/
+
 igg：https://igg-games.com/
+
+kroms：https://kroms.org/
+
+letaoke：https://www.letaoke.top/
+
+mechanics：https://repack-mechanics.com/
+
+nsw：https://nswgame.com/
+
+nxbrew：https://nxbrew.net/
 
 pctorrent：https://pcgamestorrents.com/	
 
@@ -36,15 +64,23 @@ poki：https://poki.com/zh
 
 qoo：https://www.qoo-app.com/
 
+raidof：https://raidofgame.com/
+
 repack：https://repack-games.com/
+
+romsfun：https://romsfun.com/
+
+romslab：https://romslab.com/
 
 rutracker：https://rutracker.org/forum/index.php
 
 sgames：https://www.ssgames.studio/
 
+skidrow：https://skidrowgamereloaded.co/
+
 steam：https://store.steampowered.com/	
 
-swich520：https://sway.cloud.microsoft/1ESaLEE3x47BTgZC
+switch520：https://sway.cloud.microsoft/1ESaLEE3x47BTgZC
 
 switch618：https://www.switch618.com/	
 
@@ -54,15 +90,19 @@ tarfield：https://gamestarfield.com/
 
 torrents：https://www.gamestorrents.fm/home/
 
+trex：https://gametrex.com/
+
 unlocked：https://steamunlocked.net/
 
 wgame：https://wgame80.com/
 
-xxx5217：https://www.xxx5217.com/	
+xgamefan：https://www.xgamefan.com/
 
-yikm：https://www.yikm.net/
+ziperto：https://www.ziperto.com/
 
-yxik：http://www.yxik.com/
+超级psx：https://www.superpsx.com/
+
+单机游戏下载：http://www.yxik.com/
 
 街机游戏盒：https://arcade.heheda.top/
 
@@ -82,67 +122,12 @@ yxik：http://www.yxik.com/
 
 咸鱼单机：https://www.xianyudanji.ai/
 
+小霸王：https://www.yikm.net/
+
+小白游戏网：https://www.xbgame.net/
+
+小妖怪分享：https://www.zzzzz688.com/
+
 游民星空：https://www.gamersky.com/
 
-https://www.3dmgame.com/
-https://5play.org/
-https://www.7k7k.com/
-https://wgame80.com/
-https://www.4399.com/
-https://www.xxx5217.com/
-http://www.9663.com/
-https://www.aimhaven.com/
-https://www.apunkagames.com/
-https://byrutgame.org/
-https://www.crazygames.com/
-https://crotorrents.com/
-https://www.curseforge.com/
-https://dlpsgame.com/
-https://games.dmm.com/
-https://www.dtbps3games.com/
-https://fitgirl-repacks.site/
-https://www.flysheep6.com/
-https://www.gamestorrents.fm/home/
-https://gametrex.com/
-https://www.gbtgames.com/
-https://hisgames.org/
-https://hitovik.com/
-https://www.idamaos.com/
-https://igg-games.com/
-https://kroms.org/
-https://www.letaoke.top/
-https://gamestarfield.com/
-https://repack-mechanics.com/
-https://nswgame.com/
-https://nxbrew.net/
-https://pcgamestorrents.com/
-https://www.qoo-app.com/
-https://raidofgame.com/
-https://repack-games.com/
-https://romsfun.com/
-https://romslab.com/
-https://rutracker.org/forum/index.php
-https://skidrowgamereloaded.co/
-https://www.ssgames.studio/
-https://store.steampowered.com/
-https://steamunlocked.net/
-https://www.superpsx.com/
-https://sway.cloud.microsoft/1ESaLEE3x47BTgZC
-https://www.switch618.com/
-https://www.taptap.cn
-https://www.xgamefan.com/
-https://www.ziperto.com/
-https://poki.com/zh
-https://github.com/michelpereira/awesome-open-source-games
-http://www.yxik.com/
-https://www.52djyx.com/
-https://www.game7.vip/
-https://www.emu666.com/
-https://www.zzzzz688.com/
-https://www.xbgame.net/
-https://www.yikm.net/
-https://www.mhhf.com/
-https://ppgames.top/
-https://zaixianwan.app/
-http://821730880.ysepan.com/
-https://arcade.heheda.top/
+在线玩游戏：https://www.emu666.com/
