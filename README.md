@@ -10,7 +10,7 @@
 
 9633安卓网：http://www.9663.com/
 
-byru：https://thebyrut.org/	
+byru：https://byrutgame.org/
 
 cpygames：https://cpygames.com/	
 
@@ -36,7 +36,7 @@ pctorrent：https://pcgamestorrents.com/
 
 poki：https://poki.com/zh
 
-qoo：https://www.qoo-app.com/en
+qoo：https://www.qoo-app.com/
 
 repack：https://repack-games.com/
 
@@ -78,10 +78,10 @@ yxik：http://www.yxik.com/
 
 皮皮游戏库：https://ppgames.top/
 
-蜻蜓游戏：https://33tool.com/games/
-
 上游世界：https://www.vgter.com/
 
 吾爱单机：https://www.52djyx.com/
 
 咸鱼单机：https://www.xianyudanji.ai/
+
+游民星空：https://www.gamersky.com/
